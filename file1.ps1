@@ -1,0 +1,1 @@
+get-process | Sort-Object VM -Descending | Select-Object -first 15
